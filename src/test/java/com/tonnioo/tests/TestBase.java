@@ -24,8 +24,8 @@ public class TestBase {
         Configuration.browserVersion = System.getProperty("version", "100");
         Configuration.browserSize = System.getProperty("browserSize", "1920x1080");
         Configuration.baseUrl = System.getProperty("baseUrl", "https://www.petshop.ru/");
-        Configuration.remote = "https://"+ config.login() + ":" + config.password() + "@" +
-        System.getProperty("remote","selenoid.autotests.cloud/wd/hub");
+       /// Configuration.remote = "https://"+ config.login() + ":" + config.password() + "@" +
+       /// System.getProperty("remote","selenoid.autotests.cloud/wd/hub");
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("enableVNC", true);
