@@ -32,8 +32,8 @@
 ## :robot: Сборки в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/tonnioo_petshop_tests/">Параметризированная сборка в Jenkins</a>
 <p align="center">
-<img title="Jenkins Job Run with parameters" src="images/screenshots/jenkins-run.png">
+<img title="Jenkins Job Run with parameters" src="images/screenshot/Jenkins_1.png">
 </p>
 <p align="center">
-<img title="Jenkins Dashboard" src="images/screenshots/jenkins-dashboard-all.png">
+<img title="Jenkins Dashboard" src="images/screenshot/Jenkins_2.png">
 </p>
