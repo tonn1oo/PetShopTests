@@ -65,6 +65,16 @@ test
 <img title="Allure Test Page"src="images/screenshot/allure_1.png">
 </p>
 
+## Интеграция с Allure TestOps
+<p align="center">
+<img title="Allure Test Ops Launch" src="images/screenshot/allureTestOps_1.png">
+</p>
+
+### Страница с тестами в TestOps
+<p align="center">
+<img title="TestOps tests page" src="images/screenshot/allureTestOps_2.png">
+</p>
+
 ## Отчет в Telegram
 <p align="center">
 <img title="Telegram notification message" src="images/screenshot/Telegram.png">
