@@ -2,7 +2,6 @@
 # <a target="_blank" href="https://www.petshop.ru/">petshop.ru</a>
 
 <img title="petshopmainpage" src="images/screenshot/Screenshot from 2022-06-05 02-31-40.png">
-</p>
 
 ## Code stack
 <p align="left">
@@ -53,3 +52,19 @@ test
  -DbaseUrl=${BASE_URL}
  -Dremote=${REMOTE}
 ```
+
+## Allure отчет
+- ### Главный экран отчета
+<p align="center">
+<img title="Allure Overview Dashboard" src="images/screenshot/allure_2.png">
+</p>
+
+- ### Страница с проведенными тестами
+<p align="center">
+<img title="Allure Test Page"src="images/screenshot/allure_1.png">
+</p>
+
+## Отчет в Telegram
+<p align="center">
+<img title="Telegram notification message" src="images/screenshots/telegram-bot.png">
+</p>
