@@ -12,7 +12,7 @@
 <img width="6%" title="Selenide" src="images/logo/Selenide.svg">
 </p>
 
-## Infrastructure
+## Инфраструктура
 <p align="left">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
 <img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
@@ -22,13 +22,14 @@
 </p>
 
 ## Implemented checks
-- Проверка 
-- Проверка
-- Проверка 
-- Проверка 
-- Проверка 
+-  
+- Проверка заголовка страницы 
+- Проверка горизонтального меню
+- Проверка поля поиска 
+- Проверка выбора города
 
-## Builds in Jenkins
+
+## Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/tonnioo_petshop_tests/">Параметризированная сборка в Jenkins</a>
 <p align="center">
 <img title="Jenkins Job Run with parameters" src="images/screenshot/Jenkins_1.png">
