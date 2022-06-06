@@ -43,7 +43,7 @@ public class PetShopTests extends TestBase {
             "собака"
     })
     @ParameterizedTest(name = "Search tests{0}")
-    void SearchTest(String testData) {
+    void searchTest(String testData) {
         step("Open url https://www.petshop.ru/", () ->
                 petShopPage.openPage());
 
@@ -57,7 +57,7 @@ public class PetShopTests extends TestBase {
     @DisplayName("Horizontal Menu Tests")
     @EnumSource(MenuItem.class)
     @ParameterizedTest(name = "HorizontalMenuTests")
-    void HorMenuTest(MenuItem testData) {
+    void horMenuTest(MenuItem testData) {
         step("Open url https://www.petshop.ru/", () ->
                 petShopPage.openPage());
         step(" Show Horizontal Menu", () ->
